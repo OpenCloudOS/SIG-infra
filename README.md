@@ -14,9 +14,9 @@ OpenCloudOS项目的健康运行离不开一系列IT基础设施的支持。这�
 双周例会
 
 ## 联络方式 Contacts
-● 邮件列表 SIG-infra@lists.opencloudos.org
-● 组长邮件列表 SIG-Chair-infra@lists.opencloudos.org
-● 秘书邮件列表 SIG-Secretary-infra@lists.opencloudos.org
+●  邮件列表 SIG-infra@lists.opencloudos.org
+●  组长邮件列表 SIG-Chair-infra@lists.opencloudos.org
+●  秘书邮件列表 SIG-Secretary-infra@lists.opencloudos.org
 
 ## 如何加入安全SIG并参与贡献
 	1.注册GitHub账号
@@ -27,18 +27,22 @@ OpenCloudOS项目的健康运行离不开一系列IT基础设施的支持。这�
 1. OpenCloudOS项目网站
 【简介】OpenCloudOS社区项目网站是社区的门面，在这其中基础设施SIG承担网站建设、内容发布、网站备案、域名注册、域名备案等工作。【负责人】陈蒙蒙 （腾讯）
 【代码仓】「蒋彪补充」
+
 2. 邮件系统
 社区的信息往来，大部分由邮件列别服务完成。但是部分邮件需要独立邮箱和邮件列表不支持的特定服务（如smtp）。
 【负责人】郁葱葱
 【代码仓】N/A
+
 3. 邮件列表、日历服务、文件服务
 邮件列表是OpenCloudOS社区公开透明、持久化的信息服务系统。基础设施SIG负责邮件列表的创建、初始设置和功能维护。邮件列表的内容由该邮件列表的申请人负责。
 【负责人】郁葱葱
 【代码仓】N/A
+
 4. 网络会议
 目前OpenCloudOS社区及个SIG都采用腾讯会议。鉴于社区当前规模，免费版已经足够使用。未来需要企业级支持是，基础设施SIG将进行评估和采买。
 网络会议的召集、设置、记录由发起者自行负责。
 【负责人】基础设施SIG秘书
+
 5. 社交媒体
 本项目负责管理和监督社区社交媒体的文明、有序、合法运营。
 目前OpenCloudOS社区采用微信群和微信公众号两种形式的社交媒体，后续可依据需求拓展其他社交媒体的使用。
