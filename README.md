@@ -18,7 +18,7 @@ OpenCloudOS项目的健康运行离不开一系列IT基础设施的支持。这�
 * 组长邮件列表 SIG-Chair-infra@lists.opencloudos.org
 * 秘书邮件列表 SIG-Secretary-infra@lists.opencloudos.org
 
-## 如何加入安全SIG并参与贡献
+## 如何加入基础设施SIG并参与贡献
 	1.注册GitHub账号
 	2.签署CLA
 	3.找到对应安全SIG项目仓库地址：
