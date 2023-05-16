@@ -47,7 +47,7 @@ OpenCloudOS项目的健康运行离不开一系列IT基础设施的支持。这�
  - 【链接】 https://build.opencloudos.tech
  
 2. OpenCloudOS 代码管理系统
- - 【简介】OpenCloudOS的代码仓库托管再Gitee上，方便来自不同领域的开发者共建OpenCloudOS。
+ - 【简介】OpenCloudOS的代码仓库托管在Gitee上，方便来自不同领域的开发者共建OpenCloudOS。
  - 【链接】https://gitee.com/OpenCloudOS/
  
 3. OpenCloudOS IDM系统
